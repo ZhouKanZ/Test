@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TailTextView">
+        <attr name="start_icon" format="reference"/>
+        <attr name="contentText" format="string|reference"/>
+        <attr name="contentColor" format="color|reference"/>
+        <attr name="tailText" format="string|reference"/>
+        <attr name="tailTextColor" format="string|reference"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="isTailEnd" format="boolean"/>
+        <attr name="maxLines" format="integer"/>
+    </declare-styleable>
+
+</resources>
